@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aef4ee12-f21c-4cf0-98eb-b0930af8ed33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GamePiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
-    </list>
+    <list default="true" id="aef4ee12-f21c-4cf0-98eb-b0930af8ed33" name="Changes" comment="version1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +44,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TicTacToe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TicTacToe" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,11 +67,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681484965399</updated>
-      <workItem from="1681484966674" duration="2742000" />
+      <workItem from="1681484966674" duration="3154000" />
     </task>
+    <task id="LOCAL-00001" summary="version1">
+      <created>1681488149776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681488149776</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version1" />
+    <option name="LAST_COMMIT_MESSAGE" value="version1" />
   </component>
 </project>
